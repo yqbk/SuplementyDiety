@@ -1,18 +1,11 @@
 # SuplementyDiety
 Dokument zawierający wiedzę z zakresu suplementacji diety
 
-
-
-## Cynk
-
-### Właściwości
-
-### Dawkowanie
-
-
-
-
-## Ashwagandha
+# Table of Contents
+1. [Cynk](##Cynk)
+2. [Ashwagandha](##Ashwagandha)
+3. [Yerba Mate](#Yerba Mate)
+4. [Pokrzywa](#Pokrzywa)
 
 ### Właściwości
 
@@ -20,7 +13,8 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 
 
 
-## Wywar z pokrzyw
+
+##Ashwagandha
 
 ### Właściwości
 
@@ -28,7 +22,15 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 
 
 
-## Yerba Mate
+##Pokrzywa
+
+### Właściwości
+
+### Dawkowanie
+
+
+
+##Yerba Mate
 
 ### Właściwości
 
