@@ -3,26 +3,33 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 
 
 
-### Cynk
+## Cynk
+
+### Właściwości
+
+### Dawkowanie
 
 
 
-### Ashwagandha
+
+## Ashwagandha
+
+### Właściwości
+
+### Dawkowanie
+
 
 
 ## Wywar z pokrzyw
 
-TODO do uzupełnienia
+### Właściwości
 
-właściwości
+### Dawkowanie
 
-dawkowanie
 
 
 ## Yerba Mate
 
-TODO do uzupełnienia
+### Właściwości
 
-właściwości
-
-dawkowanie
+### Dawkowanie
