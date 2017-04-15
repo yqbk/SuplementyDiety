@@ -7,14 +7,9 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 3. [Yerba Mate](#Yerba Mate)
 4. [Pokrzywa](#Pokrzywa)
 
-### Właściwości
-
-### Dawkowanie
 
 
-
-
-##Ashwagandha
+## Cynk
 
 ### Właściwości
 
@@ -22,7 +17,8 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 
 
 
-##Pokrzywa
+
+## Ashwagandha
 
 ### Właściwości
 
@@ -30,7 +26,15 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 
 
 
-##Yerba Mate
+## Pokrzywa
+
+### Właściwości
+
+### Dawkowanie
+
+
+
+## Yerba Mate
 
 ### Właściwości
 
