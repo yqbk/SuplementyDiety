@@ -145,3 +145,6 @@ Trudnościach z koncentracją
 ##Jęczmień młody?
 
 ##YOHIMBINE HCL
+
+## Betaina HCL
+Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa lub refluxem (nieprawidłowym cofaniu się kwaśnej treści).
