@@ -1,11 +1,7 @@
 # SuplementyDiety
 *Dokument zawierający wiedzę z zakresu suplementacji diety*
 
-<<<<<<< HEAD
 ## Table of Contents
-=======
-# Table of Contents
->>>>>>> f4c5736b33d6350f6e3ebcc9d25bb855d247ac3c
 1. [Czekolada](#czekolada)
 1. [Witamina C](#witamina-c)
 2. [Ashwagandha](##ashwagandha)
@@ -56,11 +52,7 @@
   - zelazo
 
 ### Efekty negatywne
-<<<<<<< HEAD
 - moze zwiększać poziom glutaminianu
-=======
-- moze zwiekszac poziom glutaminianu
->>>>>>> f4c5736b33d6350f6e3ebcc9d25bb855d247ac3c
 - zawiera w sobie duzo histaminy (objawy alergiczne)
 
 
