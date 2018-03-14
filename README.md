@@ -3,13 +3,15 @@
 
 ## Table of Contents
 1. [Czekolada](#czekolada)
-1. [Witamina C](#witamina-c)
-2. [Ashwagandha](##ashwagandha)
-3. [Yerba Mate](#yerba-mate)
-4. [Pokrzywa](#pokrzywa)
-5. [Cynk](##cynk)
+2. [Witamina C](#witamina-c)
+3. [Biotyna](#biotyna)
+4. [Ashwagandha](##ashwagandha)
+5. [Yerba Mate](#yerba-mate)
+6. [Pokrzywa](#pokrzywa)
+6. [Cynk](##cynk)
 
 
+--------------
 ## Czekolada
 [Źródło](https://www.youtube.com/watch?v=HchIr39yZ1U)
 
@@ -59,6 +61,7 @@
 ### Dawkowanie
 *W małych ilościach*
 
+--------------
 ## Witamina C
 
 Wlaczy z wolnymi rodnikami. Wit C oddaje swoje wolne elektrony, staje się utleniona dopóki nie zostanie zredukowana. Przekształca się wtedy w kwas dehydroaskorbinowy DHAA. 
@@ -80,9 +83,54 @@ Poniżej 11 milimularów
 - leczenie raka
 - chroniczny stres powoduje niedobory witaminy C
 
+--------------
+## Biotyna
+[source](https://www.spirulina.pl/witaminy-i-mineraly/witaminy/biotyna/biotyna-i-jej-wplyw-na-funkcjonowanie-organizmu.html)
+ 
+### Info
+- witamina B7 = witamina H (haut - skóra)
+- związek zawierający **siarkę**
+- wrazliwa na zmiany temperatury
+- magazynowana w wątrobie
 
 
+### Właściwości
+- **włosy** - zapobiega siwieniu oraz łysieniu
+- **paznokcie** - zdrowe i mocne
+- **skóra** - właściwe funkcjonowanie
+  - pomoc w leczeniu trądziku młodzieńczego 
+  - zapobiega łojotokowi oraz wzmożonej aktywności gruczołów łojowych
+- nośnik CO2 w procesach przemiany materii
+- bierze udział w metabolizmie białek i tłuszczów
+- uczestniczy w syntezie kwasów tłuszczowych
+- Pomaga w procesie wchłaniania witaminy C
+- Współdziała w przemianie aminokwasów i cukrów jak również uczestniczy z witaminą K w syntezie protrombiny – białka odpowiedzialnego za prawidłowe krzepnięcie krwi
+- zaopatrzenie nerwów w energie 
+  - prawidłowe funkcjonowanie systemu nerwowego, 
+  - na witalność, 
+  - dobre samopoczucie 
+  - odczuwanie bólu oraz wrażliwość czuciową
+- poprawa przemiany glukozy -> chorzy na cukrzycę\
+- niedobory biotyny = mozliwe zapalenie stawów/mięśni lub drzenie rąk
+- sprawia, że błona śluzowa rozwija się prawidłowo, a jelita działają sprawniej i są bardziej odporne na uszkodzenia mechaniczne
 
+### Dawkowanie
+- najbardziej wymagające pod względem długości terapii biotyną są paznokcie ze względu na ich wolny wzrost – przeciętnie 3 – 4 mm miesięcznie
+- zapotrzebowanie `0,02 mg` - `2 mg`
+- **Surowe białko jaja ogranicza przyswajanie Biotyny przez organizm**
+- Niekorzystnie na biotynę działa także woda, sulfonamidy, estrogeny, przetworzona żywność i alkohol
+- Do tej pory nie stwierdzono skutków negatywnych, jakie wywołuje nadmiar biotyny w naszym organizmie. Biotyna sprawia, 
+- Zawartość w produktach: 
+  - 100g wątróbki = `102 mg`
+  - 100g zółtek jaj = `54 mg`
+
+### Niedobory 
+- długotrwała kuracja antybiotykami może znacznie obniżyć ilość biotyny w organizmie
+- podstawowym sygnałem będzie łuszczenie się skóry
+- łojotokowe zapalenie skóry głowy i wypadanie włosów
+- Niedobór witaminy B7 powoduje min. wzmożoną nerwowość, depresję, apatię, senność, a nawet halucynacje. Często możemy doznawać także uczucie lęku i cierpnięcie dłoni
+
+--------------
 ## Ashwagandha
 
 
