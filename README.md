@@ -2,19 +2,84 @@
 Dokument zawierający wiedzę z zakresu suplementacji diety
 
 # Table of Contents
-1. [Cynk](##Cynk)
-2. [Ashwagandha](##Ashwagandha)
-3. [Yerba Mate](#YerbaMate)
-4. [Pokrzywa](#Pokrzywa)
-4. [Czekolada](#Czekolada)
+1. [Czekolada](#czekolada)
+1. [Witamina C](#witamina-c)
+2. [Ashwagandha](##ashwagandha)
+3. [Yerba Mate](#yerba-mate)
+4. [Pokrzywa](#pokrzywa)
+5. [Cynk](##cynk)
 
 
+## Czekolada
+[Źródło](https://www.youtube.com/watch?v=HchIr39yZ1U)
 
-## Cynk
+### Info
+- Minimum **70% kakao** w czekoladzie
+- Czekolada **gożka**
+- więcej kakao -> mniej cukru
+- czekolada **raw** -> nisko przetworzone
 
 ### Właściwości
+- Zwiększa poziom
+  - seratoniny
+  - dopaminy
+  - endorfin
+  - anandamidu (prawdopodobnie odpowiedzialny za *runners high* -> dobre samopoczucie biegaczy przy długim biegu)  
+- Poprawia samopoczucie
+- Poprawia działanie mózgu:
+  - zmniejsza objawy *brain fog*
+  - kognacja
+  - pamięć
+  - czas reakcji
+- Więcej czekolady -> więcej nagród nobla w danym kraju
+- zmniejsza apetyt
+- Dobry wpływ na serce 
+  - zwiększa poziom zdrowego cholesterolu (HDL), zmniejsza złego (oxLDL) 
+  - zwiększa poziom tlenku azotu (NO) -> rozluźnia naczynia krwionośne
+  - koenzym Q10 (PQQ)
+  - zmniejsza agregacje płytek krwi -> zapobiega zawałom, skrzepom
+- poprawia zdrowie skóry
+- wpływa korzystnie na flore jelitową
+- zmniejsza stany zapalne
+   
+  
+### Skład
+- 1 tabliczka czekolady zawiera do `100 mg` kofeiny
+- minerały
+  - magnez
+  - miedź
+  - selen
+  - zelazo
+
+### Efekty negatywne
+- moze zwiekszac poziom glutaminianu
+- zawiera w sobie duzo histaminy (objawy alergiczne)
+
 
 ### Dawkowanie
+*W małych ilościach*
+
+## Witamina C
+
+Wlaczy z wolnymi rodnikami. Wit C oddaje swoje wolne elektrony, staje się utleniona dopóki nie zostanie zredukowana. Przekształca się wtedy w kwas dehydroaskorbinowy DHAA. 
+
+Jeśli nie spożywa się odpowiedniej ilości węglowodanów zaczyna brakować transporterów wewnątrzkomórkowych - GLUT 1,2,3,4 co oznaczna, ze kwas DHAA nie może być zredukowany do aktywnej formy czyli kwasu askorbinowego (witamina C).
+
+Transporter GLUT 1 dostarcza kwas DHAA do mózgu -> pomaga przy udarze mózgu.
+
+**DHAA (nieaktywna forma witaminy C)**
+
+*czas półtrwania DHAA to 6 minut, jeśli w tym czasie nie dostanie się z powrotem do komórki to znika.*
+
+Antyoksydanty oddają swój wolny elektron i stają się oksydantami lub są bezużyteczne dla organizmu. Witaminy -> A, E, C
+
+### Szkorbut
+Poniżej 11 milimularów 
+
+### Właściwości
+- leczenie raka
+- chroniczny stres powoduje niedobory witaminy C
+
 
 
 
@@ -54,7 +119,7 @@ Wykazano, że w grupie przyjmującej ashwagandhę poziom kortyzolu znacząco si�
 
 
 
-**W badaniach naukowych potwierdzono również, iż witania ospała wpływa na poprawę wydolności fizycznej.**Z tego względu polecana jest sportowcom. 
+**W badaniach naukowych potwierdzono również, iż witania ospała wpływa na poprawę wydolności fizycznej.** Z tego względu polecana jest sportowcom. 
 
 Wykazano to między innymi w ośmiotygodniowym badaniu przeprowadzonym na indyjskich rowerzystach. 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545242/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545242/) 
@@ -124,6 +189,8 @@ Trudnościach z koncentracją
 – stabilizuje poziom cukru we krwi
 
 
+
+
 ## Pokrzywa
 
 ### Właściwości
@@ -153,53 +220,8 @@ Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa 
 
 
 
-## Czekolada gożka
-
-### Info
-- Minimum **70% kakao** w czekoladzie
-- Czekolada **gożka**
-- więcej kakao -> mniej cukru
-- czekolada **raw** -> nisko przetworzone
+## Cynk
 
 ### Właściwości
-- Zwiększa poziom
-  - seratoniny
-  - dopaminy
-  - endorfin
-  - anandamidu (prawdopodobnie odpowiedzialny za *runners high* -> dobre samopoczucie biegaczy przy długim biegu)  
-- Poprawia samopoczucie
-- Poprawia działanie mózgu:
-  - zmniejsza objawy *brain fog*
-  - kognacja
-  - pamięć
-  - czas reakcji
-- Więcej czekolady -> więcej nagród nobla w danym kraju
-- zmniejsza apetyt
-- Dobry wpływ na serce 
-  - zwiększa poziom zdrowego cholesterolu (HDL), zmniejsza złego (oxLDL) 
-  - zwiększa poziom tlenku azotu (NO) -> rozluźnia naczynia krwionośne
-  - koenzym Q10 (PQQ)
-  - zmniejsza agregacje płytek krwi -> zapobiega zawałom, skrzepom
-- poprawia zdrowie skóry
-- wpływa korzystnie na flore jelitową
-- zmniejsza stany zapalne
-   
-  
-### Skład
-- 1 tabliczka czekolady zawiera do `100 mg` kofeiny
-- minerały
-  - magnez
-  - miedź
-  - selen
-  - zelazo
-
-### Efekty negatywne
-- moze zwiekszac poziom glutaminianu
-- zawiera w sobie duzo histaminy (objawy alergiczne)
-
 
 ### Dawkowanie
-*W małych ilościach*
-
-[Źródło](https://www.youtube.com/watch?v=HchIr39yZ1U)
-
