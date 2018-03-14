@@ -4,8 +4,9 @@ Dokument zawierający wiedzę z zakresu suplementacji diety
 # Table of Contents
 1. [Cynk](##Cynk)
 2. [Ashwagandha](##Ashwagandha)
-3. [Yerba Mate](#Yerba Mate)
+3. [Yerba Mate](#YerbaMate)
 4. [Pokrzywa](#Pokrzywa)
+4. [Czekolada](#Czekolada)
 
 
 
@@ -148,3 +149,57 @@ Trudnościach z koncentracją
 
 ## Betaina HCL
 Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa lub refluxem (nieprawidłowym cofaniu się kwaśnej treści).
+
+
+
+
+## Czekolada gożka
+
+### Info
+- Minimum **70% kakao** w czekoladzie
+- Czekolada **gożka**
+- więcej kakao -> mniej cukru
+- czekolada **raw** -> nisko przetworzone
+
+### Właściwości
+- Zwiększa poziom
+  - seratoniny
+  - dopaminy
+  - endorfin
+  - anandamidu (prawdopodobnie odpowiedzialny za *runners high* -> dobre samopoczucie biegaczy przy długim biegu)  
+- Poprawia samopoczucie
+- Poprawia działanie mózgu:
+  - zmniejsza objawy *brain fog*
+  - kognacja
+  - pamięć
+  - czas reakcji
+- Więcej czekolady -> więcej nagród nobla w danym kraju
+- zmniejsza apetyt
+- Dobry wpływ na serce 
+  - zwiększa poziom zdrowego cholesterolu (HDL), zmniejsza złego (oxLDL) 
+  - zwiększa poziom tlenku azotu (NO) -> rozluźnia naczynia krwionośne
+  - koenzym Q10 (PQQ)
+  - zmniejsza agregacje płytek krwi -> zapobiega zawałom, skrzepom
+- poprawia zdrowie skóry
+- wpływa korzystnie na flore jelitową
+- zmniejsza stany zapalne
+   
+  
+### Skład
+- 1 tabliczka czekolady zawiera do `100 mg` kofeiny
+- minerały
+  - magnez
+  - miedź
+  - selen
+  - zelazo
+
+### Efekty negatywne
+- moze zwiekszac poziom glutaminianu
+- zawiera w sobie duzo histaminy (objawy alergiczne)
+
+
+### Dawkowanie
+*W małych ilościach*
+
+[Źródło](https://www.youtube.com/watch?v=HchIr39yZ1U)
+
