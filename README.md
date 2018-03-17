@@ -249,10 +249,53 @@ Trudnościach z koncentracją
 
 ## Yerba Mate
 
+### Info
+- działa pobudzająco
+- powstaje z suszonych liści **ostrokrzewu paragwajskiego**. *W Argentynie spożywa się ją w 92% domostw*
+- pobudza **delikatnie, łagodnie i bez efektów ubocznych*
+- zawiera:
+  - kofeinę, `85mg kofeiny` na filiżankę -> *mniej niż kawa ale więcej niż zwykła herbata*
+  - teobrominę
+  - teofilinę
+    - te 3 alkaloidy zapewniają **łagodną stymulację bez uzalenienia i 'zjazdów'**
+  - witaminy
+    - `A, C, B1, B2, B3, B5, E`
+  - minerały
+    - `wapń, zelazo, magnez, mangan, fosfor, potas, selen, sód, siarkę, cynk` a także `taniny, chlorofil, flawonoidy i aminokwasy`
+  - `11 polifenoli` -> **jest silniejszym antyoksydantem niz jakakolwiek herbata** 
+
+
 ### Właściwości
+- zwiększa poziom dopaminy
+- poprawia pracę mózgu
+- działa antyoksydacyjne
+- działanie przeciwnowotworowe i przeciwzapalne
+- wspiera układ odpornościowy
+  - zawiera 'dobre' `saponiny` - `*(te zawarte w soi nie są zdrowe)* 
+  - pomaga na infekcje pęcherza
+  - pomaga na alergie sezonowe
+- przeciwbakteryjnie i przeciwpasozytniczo -> dodatek do terapii
+- na problemy z trawieniem
+  - biegunka, zaparcia lub niestrawność
+- wpływa korzystnie na metabolizm:
+  - kontrola poziomu cukru we krwii
+  - poprawienie profilu lipidowego
+  - utrata wagi
+    - **zmniejsza apetyt**
+    - **przyspiesza przemianę materii**
+    - poprawia wrazliwość na insulinę
+- stosowana w celach leczniczych
+  - wsparcie trawienia
+  - przeciwbólowo
+  - zapalenie zatok
+  - zmęczenie
+  - depresję
+- wspiera zdrowe kości
+- korzystny wpływ na serce - rozluźnia naczynia krwionośne 
+
 
 ### Dawkowanie
-
+- zacząć stopniowo od mniejszych dawek
 
 
 ## Żeń Szeń Syberyjski
