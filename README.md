@@ -17,7 +17,7 @@
 
 ### Info
 - Minimum **70% kakao** w czekoladzie
-- Czekolada **gożka**
+- Czekolada **gorzka**
 - więcej kakao -> mniej cukru
 - czekolada **raw** -> nisko przetworzone
 
