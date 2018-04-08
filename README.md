@@ -20,7 +20,10 @@
 
 8. [Suplementacja ogólnie](##sumplementacja)
 
----
+9. [Woda](##woda)
+
+
+------------------------
 
 ## Czekolada
 
@@ -104,7 +107,7 @@
 
 *W małych ilościach*
 
----
+---------------------------
 
 ## Witamina C
 
@@ -130,7 +133,7 @@ Poniżej 11 milimularów
 
 - chroniczny stres powoduje niedobory witaminy C
 
----
+---------------------------
 
 ## Biotyna
 
@@ -212,7 +215,7 @@ Poniżej 11 milimularów
 
 - Niedobór witaminy B7 powoduje min. wzmożoną nerwowość, depresję, apatię, senność, a nawet halucynacje. Często możemy doznawać także uczucie lęku i cierpnięcie dłoni
 
----
+---------------------------
 
 ## Ashwagandha
 
@@ -315,11 +318,7 @@ Trudnościach z koncentracją
 – zwiększa potencję seksualną u mężczyzn i kobiet
 – stabilizuje poziom cukru we krwi
 
-## Pokrzywa
-
-### Właściwości
-
-### Dawkowanie
+------------------------
 
 ## Yerba Mate
 
@@ -409,21 +408,6 @@ Trudnościach z koncentracją
 
 - zacząć stopniowo od mniejszych dawek
 
-## Żeń Szeń Syberyjski
-
-##Jęczmień młody?
-
-##YOHIMBINE HCL
-
-## Betaina HCL
-
-Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa lub refluxem (nieprawidłowym cofaniu się kwaśnej treści).
-
-## Cynk
-
-### Właściwości
-
-### Dawkowanie
 
 ## Suplementacja ogólnie
 
@@ -482,9 +466,46 @@ Nadmiar cynku + niedobór miedzi -> cynk staję się toksyczny dla organizmu
 ### Podstawowa suplementacja = uzupełnienie niedoborów diety i tego co trudno wchłaniamy 
 
 
+# TODO
+
+## Woda
+
+[//]: # (TODO: uzupełnić informacje)
+
+Szungit i kubek n-water lub odwrócona osmoza i filtr do mycia.
+
+## Pokrzywa
+
+## Żeń Szeń Syberyjski
+
+##Jęczmień młody?
+
+##YOHIMBINE HCL
+
+## Betaina HCL
+
+Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa lub refluxem (nieprawidłowym cofaniu się kwaśnej treści).
+
+
+## Witamina k2
+
+## Cynk
+
+
+## Trądzik
+
+Układ limfatyczny jest naszym systemem kanalizacyjnym, a nerki pomagają go oczyścić. Zatkane nerki wysyłają toksyny na powierzchnię skóry powodując problemy. Czyli w zasadzie ludzie powinni być wdzięczni za to, że organizm pomaga nam, wysyłając sygnał, który my odbieramy jako objaw. Ten sygnał oznacza, że mamy zająć się układem limfatycznym. Ważną rzeczą są też nadnercza, które położone są na szczycie nerek. Są one drzwiami, które umożliwiają toksynom z układu limfatycznego opuścić organizm. Limfa jest toksyczna ponad możliwości, co pokazuje kondycja skóry. Obciążona toksynami limfa ulega zakwaszeniu i staje się toksycznym szambem, który przytłacza nerki. Sól himalajska czy inna złagodzi problemy skórne, ale tylko na jakiś czas. Toksyny w układzie limfatycznym, które przedostaną się na powierzchnię skóry są kwasowe z natury. Zasady są odwrotnością kwasów i je neutralizują. Jedynym sposobem, aby zregenerować swoją skórę jest oczyszczanie układu limfatycznego. Można to osiągnąć za pomocą 100% surowej diety. Najlepiej to owoce za dnia a wieczorem sałatka bądź sok warzywny (zielone warzywa, burak, marchewka, kiszonki). Owoce oczyszczają układ limfatyczny z toksyn, tak aby one nie przedostały się na powierzchnię skóry (zakładając oczywiście, że nerki są wystarczająco silne, aby przefiltrować toksyny poza organizm). Fioletowe winogrona są potężnymi detoksykantami oraz regenetatorami ciała. Rób dłuższe posty na winogronach jeśli zależy Ci odwrócenie swoich poważnych dolegliwości. Układ limfatyczny jest kanalizacją organizmu, dociera do każdej komórki ciała. Nasza skóra to trzecia nerka. Trądzik, łuszczyca, egzema itd. to są problemy, które nie mogą zostać odwrócone metodami zewnętrznymi. Zrób oczyszczanie nerek mieszankami ziołowymi.
+
+## Ogólne
+
+Badania jakie powinno się wykonać
+
+homocysteina
+badania wrazliwosc na gluten
+
+- Stopy skurcze gdy dobry magnes
 
 
 ### Właściwości
 
 ### Dawkowanie
-
