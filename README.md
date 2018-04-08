@@ -491,6 +491,33 @@ Podnosi poziom kwasu żołądkowego. Pomaga przy problemach z trawieniem mięsa 
 
 ## Cynk
 
+## Siarka 
+- włosy, skóra, paznokcie
+
+## Glikacja
+
+Zbyt dużo cukru w połączniu z białkiem:
+
+starzenie się organizmu
+problemy z kolagenem
+zaćma
+Fruktoza jest od 7 do 10 razy bardziej reaktywna! Fruktoza z cukru, nie z owoców (w owocach jest do 5% fruktozy)##
+
+## Witamina K
+
+## Spirulna
+
+## Młody jęczmień 
+- skończyć najpierw spiruline? - undra
+
+## czarnuszka
+
+## Kawa
+
+pasożyty i choroby grzybiczne -> należy odstwić kawę żeby się wyleczyć
+
+## next video -> fruktoza 
+## next video -> zimny prysznic
 
 ## Trądzik
 
@@ -505,6 +532,8 @@ badania wrazliwosc na gluten
 
 - Stopy skurcze gdy dobry magnes
 
+
+http://pl.swissherbal.eu/test-bravermana/
 
 ### Właściwości
 
