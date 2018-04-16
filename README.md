@@ -538,3 +538,25 @@ http://pl.swissherbal.eu/test-bravermana/
 ### Właściwości
 
 ### Dawkowanie
+
+## Urydyna
+
+Urydyna to bardzo ciekawa cząsteczka. Jest składnikiem RNA. Wspiera działanie układu nerwowego. W naszym ciele jest produkowana jako urydyno monofosforan (UMP).
+
+Znajduje się w pożywieniu - np. w warzywach, mięsie a szczególnie bogatym jej źródłem są drożdże oraz… piwo. Znajduje się także w mleku matki.
+
+Urydyna mocno wspiera mózg oraz centralny układ nerwowy. W połączeniu z DHA (który znajduje się w kwasach tłuszczowych omega-3) oraz choliną wspiera tworzenie nowych synaps w mózgu, co znaczy że poprawia komunikację (1) , wspiera plastyczność mózgu (2) oraz wspiera wzrost neuronów (3) . W połączeniu z choliną poprawia pamięć logiczną i werbalną (4) . Może także opóźniać rozwój choroby Alzheimera i zwiększać poziom acetylocholiny (5) . Dodatkowo poprawia jakość snu. U myszy podawana w zastrzykach zapobiega epilepsji. Może działać także antydepresyjnie (6) .
+
+Urydyna ma też działanie przeciwbólowe – w połączeniu z witamina B12 i kwasem foliowym zmniejszyła odczuwany ból i objawy zespołu cieśni nadgarstka (7) a połączenie z witaminą B12 oraz cytydyną zmniejszyło odczuwany ból pleców, karku oraz biodra (8) .
+
+Co ciekawe, osoby z wirusem HIV mają niższy poziom urydyny (9) a jej suplementacja może być korzystna (10) , podobnie jak w przypadku mukowiscydozy (11) .
+Dodatkowo może wpływać korzystnie na wątrobę i serce.
+
+
+Z potencjalnych skutków ubocznych – duże dawki mogą powodować gorączkę i biegunkę. Oprócz tego potencjalnie może być kancerogenna (12) poprzez aktywację receptora P2Y2R (13) , jednak u myszy jej suplementacja zmniejszyła rozmiar guza i obciążenie ciała (14) . Dodatkowo u myszy duże dawki mogą powodować insulinooporność, a osoby z insulinoopornością mają wyższy jej poziom (15) .
+
+Ale najlepsze zostawiłem oczywiście na koniec ;)
+
+Po pierwsze - może zmniejszać wydzielanie dopaminy w przypadku spożycia amfetaminy i poprawiać wrażliwość na kokainę i amfetaminę (16) (badanie na myszach). Oczywiście nie piszę tego, by zachęcać do używania takich środków, jednak oznacza to, że potencjalnie urydyna może przywracać wrażliwość na stymulanty np. u osób, które z nimi znacznie przesadziły.
+
+Po drugie może wspierać wydzielanie dopaminy z aktywowanych neuronów bez dużego wpływu na jej całkowity poziom (17) , co znowu może być bardzo korzystne u osób z zaburzeniami tworzenia dopaminy, np. w przypadku choroby Parkinsona.
